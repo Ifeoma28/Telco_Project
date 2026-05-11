@@ -1,29 +1,41 @@
-# Telco_Project
-This project aimed to understand why customers churn in a telecomunications company .
+# Telco Customer Churn Analysis
 
-## Project overview
-Using data exploration and visualization, i will identify  patterns and possible factors associated with customer churn.
+## 👤 Author
+Ifeoma Mary-Ann James | She Codes Africa Data Science Programme
 
-## Authors
-Ifeoma Mary-ann James
+## 📌 Project Overview
+This project analyses customer churn behaviour for a telecommunications company using Python and pandas. The goal is to identify the key drivers of customer churn and provide actionable business insights.
 
-## Table of Contents
-- [Problem Statement](##PROBLEMSTATEMENT)
-- [Objectives](#Objectives)
-- [About Dataset](#ABOUTDATASET)
-- [Landing Page](#Landingpage)
-- [Data cleaning process](#Datacleaningprocess)
-- [Tools used](#Toolsused)
-- [Metrics to measure](#metricstomeasure)
-- [Analysis](#Analysis)
-- [Insights](#Insights)
-- [Conclusion](#conclusion)
+## 🔍 Key Questions Explored
+- Do high monthly charges drive churn?
+- Which contract types have the highest churn rates?
+- Does payment method influence churn?
+- Do value-added services reduce churn?
 
-#### Problem Statement
-Why do customers churn ?
+## 📊 Key Findings
+- Month-to-month contract customers churn the most
+- Churned customers have higher monthly charges but lower total charges
+- Electronic check payment customers show the highest churn rate
+- Customers with no value-added services are more likely to churn
 
-#### Objectives
-- Identifying patterns associated with churn.
-- Strategies to reduce churn to increase revenue.
+## 🛠️ Tools & Libraries
+- Python
+- pandas
+- numpy
+- plotnine (ggplot2)
+- matplotlib
 
+## 📁 Files
+| File | Description |
+|---|---|
+| `mini_project_2.ipynb` | Main analysis notebook |
+| `telco_customer_churn2.csv` | Dataset |
 
+## 🚀 How To Run
+1. Clone this repository
+2. Install requirements: `pip install pandas numpy plotnine matplotlib`
+3. Open `mini_project_2.ipynb` in Jupyter or Google Colab
+4. Run all cells
+
+## 📈 Dataset
+The dataset contains 7,748 telco customer records with 21 features including contract type, payment method, monthly charges and churn status.
