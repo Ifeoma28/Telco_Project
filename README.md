@@ -20,4 +20,11 @@ Ifeoma Mary-ann James
 - [Insights](#Insights)
 - [Conclusion](#conclusion)
 
+#### Problem Statement
+Why do customers churn ?
+
+#### Objectives
+Identifying patterns associated with churn.
+Strategies to reduce churn to increase revenue.
+
 
