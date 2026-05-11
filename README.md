@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis
 
 ## 👤 Author
-Ifeoma Mary-Ann James | She Codes Africa Data Science Programme
+Ifeoma Mary-Ann James | She Codes Africa Data Science Mini Project
 
 ## 📌 Project Overview
 This project analyses customer churn behaviour for a telecommunications company using Python and pandas. The goal is to identify the key drivers of customer churn and provide actionable business insights.
