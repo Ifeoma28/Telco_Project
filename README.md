@@ -14,7 +14,6 @@ Ifeoma Mary-ann James
 - [Landing Page](#Landingpage)
 - [Data cleaning process](#Datacleaningprocess)
 - [Tools used](#Toolsused)
-- [Queries](#Queries)
 - [Metrics to measure](#metricstomeasure)
 - [Analysis](#Analysis)
 - [Insights](#Insights)
@@ -24,7 +23,7 @@ Ifeoma Mary-ann James
 Why do customers churn ?
 
 #### Objectives
-Identifying patterns associated with churn.
-Strategies to reduce churn to increase revenue.
+- Identifying patterns associated with churn.
+- Strategies to reduce churn to increase revenue.
 
 
